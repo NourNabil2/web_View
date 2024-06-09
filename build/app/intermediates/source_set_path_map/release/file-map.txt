@@ -1,0 +1,14 @@
+com.example.web_view.app-jetified-annotation-experimental-1.1.0-0 C:\Users\nour6\.gradle\caches\transforms-3\308a0857d9511b986a0a28ab79a43195\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.web_view.app-jetified-window-java-1.0.0-beta04-1 C:\Users\nour6\.gradle\caches\transforms-3\51f2918890fffa8ac42351fd708db86a\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.web_view.app-jetified-window-1.0.0-beta04-2 C:\Users\nour6\.gradle\caches\transforms-3\5a3ba33da1e4eacc760d15398561baf7\transformed\jetified-window-1.0.0-beta04\res
+com.example.web_view.app-core-1.6.0-3 C:\Users\nour6\.gradle\caches\transforms-3\cf73cc8a4ba953430926b62a90018a2f\transformed\core-1.6.0\res
+com.example.web_view.app-webkit-1.11.0-4 C:\Users\nour6\.gradle\caches\transforms-3\ef904ebac3f44d636e75c12ae136702a\transformed\webkit-1.11.0\res
+com.example.web_view.app-main-5 E:\web_view\android\app\src\main\res
+com.example.web_view.app-release-6 E:\web_view\android\app\src\release\res
+com.example.web_view.app-pngs-7 E:\web_view\build\app\generated\res\pngs\release
+com.example.web_view.app-resValues-8 E:\web_view\build\app\generated\res\resValues\release
+com.example.web_view.app-rs-9 E:\web_view\build\app\generated\res\rs\release
+com.example.web_view.app-mergeReleaseResources-10 E:\web_view\build\app\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.example.web_view.app-mergeReleaseResources-11 E:\web_view\build\app\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.example.web_view.app-merged_res-12 E:\web_view\build\app\intermediates\merged_res\release
+com.example.web_view.app-packaged_res-13 E:\web_view\build\webview_flutter_android\intermediates\packaged_res\release
