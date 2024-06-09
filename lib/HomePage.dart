@@ -14,6 +14,7 @@ bool isloading = false;
 class _WebPageState extends State<WebPage> {
   final webController = WebViewController()
     ..setJavaScriptMode(JavaScriptMode.unrestricted)
+    ..enableZoom(false)
     ..loadRequest(Uri.parse('https://ramezps.com/'));
   @override
   void initState() {
@@ -53,7 +54,7 @@ class _WebPageState extends State<WebPage> {
       },
     ));
     return Scaffold(
-      body: isloading ? const CircularProgressIndicator(color: Colors.green,) : WebViewWidget(controller: webController),
+      body: isloading ? const Center(child:  CircularProgressIndicator(color: Colors.green,)) : WebViewWidget(controller: webController),
     );
 
   }
