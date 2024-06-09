@@ -53,8 +53,10 @@ class _WebPageState extends State<WebPage> {
         }
       },
     ));
-    return Scaffold(
-      body: isloading ? const Center(child:  CircularProgressIndicator(color: Colors.green,)) : WebViewWidget(controller: webController),
+    return SafeArea(
+      child: Scaffold(
+        body: isloading ? const Center(child:  CircularProgressIndicator(color: Colors.green,)) : WebViewWidget(controller: webController),
+      ),
     );
 
   }
