@@ -4,6 +4,19 @@
       jars="E:\web_view\build\app\intermediates\flutter\release\libs.jar"
       resolved="__local_aars__:E:\web_view\build\app\intermediates\flutter\release\libs.jar:unspecified"/>
   <library
+      name="E:\web_view\android@@:path_provider_android::release"
+      jars="E:\web_view\build\path_provider_android\.transforms\7d51c094f9d64119a29d65d856dd4edd\transformed\out\jars\classes.jar;E:\web_view\build\path_provider_android\.transforms\7d51c094f9d64119a29d65d856dd4edd\transformed\out\jars\libs\R.jar"
+      resolved="io.flutter.plugins.pathprovider:path_provider_android:unspecified"
+      folder="E:\web_view\build\path_provider_android\.transforms\7d51c094f9d64119a29d65d856dd4edd\transformed\out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
       name="E:\web_view\android@@:webview_flutter_android::release"
       jars="E:\web_view\build\webview_flutter_android\.transforms\bb42c1e044357a5ac9518e8745cd84c5\transformed\out\jars\classes.jar;E:\web_view\build\webview_flutter_android\.transforms\bb42c1e044357a5ac9518e8745cd84c5\transformed\out\jars\libs\R.jar"
       resolved="io.flutter.plugins.webviewflutter:webview_flutter_android:unspecified"

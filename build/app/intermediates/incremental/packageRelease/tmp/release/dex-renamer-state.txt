@@ -1,4 +1,4 @@
-#Sun Jun 09 12:24:02 EET 2024
+#Wed Jun 12 16:14:04 EET 2024
 base.0=E\:\\web_view\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
